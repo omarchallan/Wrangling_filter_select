@@ -254,6 +254,8 @@ movies %>%
   arrange (desc(budget))
 ```
 
+The highest budget for a comedy or animation with at least 100 votes is 170000000. The movie is Wild Wild West. Wild Wild West is a comedy. 
+
 5. Is your favorite movie in the dataset? What other questions could you ask or answer using `filter()`, `select()`, and `arrange()`?
 
 ```{r}
