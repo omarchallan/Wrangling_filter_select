@@ -238,6 +238,13 @@ movies %>%
   filter(str_detect(title, "Harry Potter"))
 ```
 
+These are the three movies included in the data
+Harry Potter and the Chamber of Secrets
+Harry Potter and the Prisoner of Azkaban
+Harry Potter and the Sorcerer's Stone
+The highest rated movie per the data was Harry Potter and the Prisoner of Azkaban.
+The movie that had the highest votes per imb.com is Harry Potter and the Sorcerer's Stone.
+
 4. What is the highest budget for a movie that is an Animation or Comedy with at least 100 votes?
 
 ```{r}
