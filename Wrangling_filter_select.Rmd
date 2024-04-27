@@ -217,6 +217,19 @@ movies_comedies_rating_120_8 <- movies%>%
 movies_comedies_rating_120_8
 ```
 
+Per data, 10 comedies with an MPAA rating over 120 mins rated above 8.
+
+Almost Famous	2000	
+Big Fish	2003	
+Bowling for Columbine	2002	
+Ed Wood	1994	
+Forrest Gump	1994	
+Homem Que Copiava, O	2003	
+Incredibles, The	2004	
+Ley de Herodes, La	1999	
+Pirates of the Caribbean: The Curse of the Black Pearl	2003	
+Sideways	2004
+
 3. Create a subset of only Harry Potter movies with the title, rating, budget, and votes. Which movies are included in this data? Which is highest rated? Which has the most votes on imdb.com?
 
 ```{r}
