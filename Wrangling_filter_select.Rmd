@@ -258,8 +258,12 @@ The highest budget for a comedy or animation with at least 100 votes is 17000000
 
 5. Is your favorite movie in the dataset? What other questions could you ask or answer using `filter()`, `select()`, and `arrange()`?
 
-```{r}
+# Check if the movie "Annie" is in the dataset
 
+```{r}
+movies_2014 <- movies %>%    
+  filter(year == 2014)
+movies_2014    
 ```
 
 
